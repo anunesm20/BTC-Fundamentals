@@ -1,6 +1,6 @@
 ## Welcome to BTC-Fundamentals
 
-This page is intended to analyse the fundamentals of Bitcoin (BTC).
+This page is intended to analyse the fundamentals of Cryptocurrencies such as Bitcoin and Ethereum.
 
 ### Markdown
 
